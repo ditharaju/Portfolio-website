@@ -1,6 +1,8 @@
 # PortfolioWebsite
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+Showcase your awesomeness with this  Angular 17 Portfolio!
+
+This interactive website lets you ✨ strut your stuff ✨  with projects, skills, and maybe even a cat gif or two. Built with cutting-edge Angular 17, it's both sleek and  powerful.  Impress potential employers and stand out from the crowd!
 
 ## Development server
 
